@@ -1,0 +1,27 @@
+.header{
+	text-align: center;
+}
+
+.main_container
+{
+	width: 960px;
+	margin: 50px auto;
+}
+
+.add_manufacturer {
+    margin: 0px auto;
+}
+
+.footer{
+	text-align: center;
+}
+.error{
+	color: red;
+	display: block;
+}
+.modal-content {
+	padding: 20px;
+}
+.tbl-row {
+    padding: 20px 0px;
+}
